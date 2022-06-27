@@ -1,2 +1,2 @@
-TinDog Starting Files
-This is a tindog website where you can find your dog match and buy it.
+This is a Tindog website where you can find your dog match and buy it.
+
